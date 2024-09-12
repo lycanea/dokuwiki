@@ -40,5 +40,7 @@ lang: de
 format: 
   html:
     theme: sandstone
+    toc: true
+
   
   
